@@ -1,2 +1,10 @@
-# metodosRequisicoes
-The methods and their functions in the program
+## Métodos de requisição
+
+| Métodos              | Função                                             |
+| ----------------- | ---------------------------------------------------------------- |
+| GET      | Leitura |
+| POST       | Criação |
+| PUT       | Atualização |
+| DELETE      | Deleção |
+| PATCH      | Atualização Parcial |
+
